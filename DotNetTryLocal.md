@@ -49,7 +49,7 @@ The tutorials below work you through the following:
 2. `cd` to the `mydoc` folder and create a new console app with the following command:
 
 ```console
-> dotnet new console -o myApp
+> dotnet new console -o mydoc
 ```
 This will create a console app with the files `myApp.csproj` and `Program.cs`.
 
